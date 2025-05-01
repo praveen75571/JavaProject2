@@ -6,7 +6,7 @@
 | 4   | `temp_job_analytics` | Temporary pipeline no longer required        | ✅ Backed up |
 | 5   | `POC_pipeline_jen1`  | Proof-of-concept completed, unused since 2022| ✅ Backed up |
 | 6   | `sync-s3-data-old`   | Functionality moved to another pipeline      | ❌ Pending  |
-| 7   | `dev-env-cleanup`    | Manual cleanup job; archived                 | ✅ Backed up |
+| 7   | `dev-env-cleanup`    | Manual cleanup job; archived | ✅ Backed up |
 | 8   | `hotfix_deploy_21`   | Last used for 2021 patch                     | ✅ Backed up |
-| 9   | `legacy-ui-test`     | UI stack deprecated                         | ❌ Pending  |
+| 9   | `legacy-ui-test`     | UI stack deprecated    | ❌ Pending  |
 | 10  | `sandbox-build`      | Dev sandbox job, no recent runs              | ✅ Backed up |
